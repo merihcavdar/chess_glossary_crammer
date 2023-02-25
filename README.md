@@ -1,16 +1,16 @@
-# chess_glossary
+# Chess Glossary Crammer
+I have developed this App in Flutter using Sqlite for offline database and async functions to retrieve/write data from/to it.
 
-A new Flutter project.
+This App consits of the following sections:
+* Search: Also the main screen in which you can search for a term. (see the screenshot below.) As you typed, the results are filtered to find the word easily. 
+* Quiz: You can test your chess term knowledge in this multiple choice quiz. You are presented a definition and you try to choose the correct term from the 3 options.
+* Flashcards: When you do not have a specific chess term in mind, just tap on the refresh button for a random chess term and its definition.
+* History: All the chess terms you searched for are listed here in the order of date.
 
-## Getting Started
+Thank you for taking your time to review my code.
 
-This project is a starting point for a Flutter application.
+![main screen](https://www.ichbinmerih.com/img/chessglossarycrammer1.png "Chess Glossary Crammer main screen")
 
-A few resources to get you started if this is your first Flutter project:
+![searching for a chess term](https://www.ichbinmerih.com/img/chessglossarycrammer2.png "Searching for a chess term")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![the definition page](https://www.ichbinmerih.com/img/chessglossarycrammer3.png "The chess term and its definition")
